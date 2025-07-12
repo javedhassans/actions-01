@@ -2,3 +2,4 @@
 - reading about git hub actions
 - courese is from kodekloud
 - instructions is sid
+- actions are not running

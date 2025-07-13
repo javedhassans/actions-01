@@ -23,5 +23,5 @@ jobs:
               run: cat dragon.txt
 
             - name: checkout Repo file
-              run: ls
+              run: ls -ltra
              
